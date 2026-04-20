@@ -42,3 +42,4 @@ else
   echo "Error found during backup"
   exit 1
 fi
+ mv /home/karthick /opt
